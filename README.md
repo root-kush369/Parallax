@@ -7,7 +7,7 @@ Get a glimpse of the parallax magic in action! Scroll through the layers and fee
 
 ![Parallax Website Demo](parallax_demo-again.gif)
 
-> **Note**: The GIF is 10.2 MB, which might load slowly on some connections. For the best experience, you can clone the repo and run it locally! 🖥️ Alternatively, I recommend optimizing the GIF to under 5 MB using tools like [EZGIF](https://ezgif.com/optimize) for faster loading.
+> **Note**:  For the best experience, you can clone the repo and run it locally! 🖥️  
 
 ## 🌟 Features
 - **Parallax Scrolling Effect** 🖼️: Smooth 3D scrolling with background and foreground images moving at different speeds.
@@ -24,14 +24,14 @@ Dive into a world of adventure! 🌍
 
 ## 📂 Project Structure
 
-Parallax-Website/
-│
-├── index.html        # Main HTML file 📄
-├── styles.css        # CSS file for styling and parallax effect 🎨
-├── backgroundnew.png # Background image for parallax 🖼️
-├── foreground.png    # Foreground image for parallax 🖼️
-├── sport-1.jpg       # Background image for biking section 🚴‍♂️
-├── sport-2.jpg       # Background image for surfing section 🏄‍♂️
-├── sport-3.jpg       # Background image for para-gliding section 🪂
-├── parallax-demo.gif # GIF demo of the parallax effect 🎥 
-└── favicon.ico       # Favicon for the wenpage 🌐
+## 📂 Project Structure
+- **Parallax-Website/**
+  - `index.html` - Main HTML file 📄
+  - `styles.css` - CSS file for styling and parallax effect 🎨
+  - `backgroundnew.png` - Background image for parallax 🖼️
+  - `foreground.png` - Foreground image for parallax 🖼️
+  - `sport-1.jpg` - Background image for biking section 🚴‍♂️
+  - `sport-2.jpg` - Background image for surfing section 🏄‍♂️
+  - `sport-3.jpg` - Background image for para-gliding section 🪂
+  - `parallax-demo.gif` - GIF demo of the parallax effect 🎥
+  - `favicon.ico` - Favicon for the website 🌐
